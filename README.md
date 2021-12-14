@@ -1,6 +1,6 @@
-#Hyperblog   :tw-1f1ee-1f1f9:
+#Hyperblog :tw-1f1ee-1f1f9:
 Un blog increible para el curso de Git y Github en Platzi
->El curso de Git y Githud de Platzi es lo mas que hacia falta para triplicar mi salario y lanza a la industria del tejido de lana sintetica con Machine Learning 
+> El curso de Git y Githud de Platzi es lo mas que hacia falta para triplicar mi salario y lanza a la industria del tejido de lana sintetica con Machine Learning 
 > - ninita 
 
 
